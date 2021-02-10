@@ -1,1 +1,0 @@
-print("spending time with friends\nis the most beautiful thing\nin this world")
